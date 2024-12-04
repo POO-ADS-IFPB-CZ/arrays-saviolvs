@@ -4,7 +4,6 @@ public class Produto {
 
     private int codigo;
     private String descricao;
-    //Visibilidade de pacote (package) ou default
     double preco;
     private Categoria categoria;
 
